@@ -4,7 +4,7 @@ Meu nome é Patrícia Gonçalves Eliseu. Sou graduada em Administração de Sist
 Trabalhei 22 anos na FIOCRUZ e nos últimos 10 anos, como Gestora de Projetos em Pesquisa. Dando suporte administrativo, compras, financeiro e prestação de contas, seguindo o PMBOK para os Pesquisadores, gerentes dos projetos. E o meu maior legado na Fiocruz foi criar um controle financeiro e compras centralizados pela administração do IOC, via planilha excel que trouxe melhor visibilidade do nosso orçamento. 
 Busquei cursos para me desenvolver e acabei por encontrar a Trybe, escola de tecnologia, onde já aprendi (JavaScrit, CSS, HTML, GIT e GITHUB, testes unitários, React, Metodologias Ágeis, Gerenciamento de estado com Redux, context API, React Hooks,Docker ,SQL, Normalização, Desenvolvimento web com Node.js, arquitetura de software MSC, ORM e Autenticação ).
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
 <br>
 
 <!-- GITHUB STATUS -->
@@ -24,7 +24,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
 
 <!-- REDES SOCIAIS -->
