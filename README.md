@@ -8,8 +8,10 @@ Em 2016 precisei mudar para Araras por motivos pessoais e fui buscar cursos
 para desenvolver-me e acabei por encontrar a Trybe, escola de tecnologia, onde
 durante 1 ano e meio aprendi módulos - Fundamentos - Front-end - Back-end - Ciência da Computação - e Certificação Eletiva em Java. 
 Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos. 
-<br>No momento estou estudando Bootcamp Santander - Backend em Java.</p> 
-
+<br>Concluí Bootcamp Santander - Backend em Java.
+<br>Estou fazendo no momento o curso de Cybersegurança da Google.
+<br>Estou fazendo outro Bootcamp Claro - Java com Spring Boot. 
+</p> 
 ## Experiência Profissional.
 <p>Estou em dois projetos freelancers e voluntários na criação de site para loja vendas online e outro site para divulgar um centro espirita (Religioso).</p>
 <p>Trabalhei 22 anos na Fiocruz e nos últimos 10 anos, como Gestora dos Projetos
