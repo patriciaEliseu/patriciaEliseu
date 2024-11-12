@@ -62,7 +62,7 @@ maior legado foi criar um controle financeiro e compras descentralizados da admi
       </td>
       <td width="80px" align="center">
         <span>SASS</span><br>
-        <img height="32px" src="![image](https://github.com/user-attachments/assets/786f231b-4880-4456-82ac-ca2d9b6c2459)
+        <img height="32px" src="https://github.com/user-attachments/assets/dc80ecd3-fe74-4f96-a9b4-07bddcaa458e
 " />
       </td>
       <td width="80px" align="center">
