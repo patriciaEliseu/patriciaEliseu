@@ -61,8 +61,9 @@ maior legado foi criar um controle financeiro e compras descentralizados da admi
         <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
       <td width="80px" align="center">
-        <span>Figma</span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+        <span>SASS</span><br>
+        <img height="32px" src="![image](https://github.com/user-attachments/assets/786f231b-4880-4456-82ac-ca2d9b6c2459)
+" />
       </td>
       <td width="80px" align="center">
         <span>Bootstrap</span><br>
