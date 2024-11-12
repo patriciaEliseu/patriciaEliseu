@@ -2,7 +2,7 @@
 
 <p>Sou carioca do Rio de Janeiro, mas no momento moro em Araras interior de SP.</p> <p>Sou graduada em Administração
 com enfase em Analise de Sistema, onde aprendi algumas linguagens como:
-C++ e Delphi.</p>
+SQL, C++ e Delphi.</p>
 <p>
 Em 2016 precisei mudar para Araras por motivos pessoais e fui buscar cursos
 para desenvolver-me e acabei por encontrar a Trybe, escola de tecnologia, onde
@@ -10,14 +10,14 @@ durante 1 ano e meio aprendi módulos - Fundamentos - Front-end - Back-end - Ci�
 Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos. 
 <br>Concluí Bootcamp Santander - Backend em Java.
 <br>Estou fazendo no momento o curso de Cybersegurança da Google.
-<br>Estou fazendo outro Bootcamp Claro - Java com Spring Boot. 
+<br>Estou fazendo no momento também o curso da Trybe IA para programação com Python. 
 </p> 
 ## Experiência Profissional.
 <p>Estou em dois projetos freelancers e voluntários na criação de site para loja vendas online e outro site para divulgar um centro espirita (Religioso).</p>
 <p>Trabalhei 22 anos na Fiocruz e nos últimos 10 anos, como Gestora dos Projetos
 em Pesquisa. Dando auxilio administrativo (obedecendo o Guia PMBOK) em
-compras, financeiro, prestação de conta para os gerentes dos projetos. O meu
-maior legado foi criar um controle financeiro e compras descentralizados da administração do IOC (Instituto Oswaldo Cruz), via planilha excel que trouxe melhor visibilidade e economia nos Orçamentos.
+compras, financeiro, prestação de conta para os gerentes dos projetos de Pesquisas. O meu
+maior legado foi criar um controle financeiro e compras descentralizados da administração do IOC (Instituto Oswaldo Cruz), via planilha excel que trouxe melhor visibilidade, podendo dar Análise de seus gastos full time, economia nos Orçamentos e evitando gastos desnecessários.
 </p>
 
 
