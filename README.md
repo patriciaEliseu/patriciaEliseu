@@ -179,7 +179,12 @@ maior legado foi criar um controle financeiro e compras descentralizados da admi
       <td width="90px" align="center">
         <span>VS Code</span><br>
         <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-      </td>           
+      </td> 
+	     <td width="30px" align="center">
+        <span>Cybersegurança<span><br>
+        <img height="40" width="50" src="https://github.com/user-attachments/assets/0d7651d0-5149-418e-b57c-9351c1f520a1
+" />
+      </td>
       <td width="30px" align="center">
         <span>Aws<span><br>
         <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
