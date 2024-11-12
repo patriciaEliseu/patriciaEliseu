@@ -12,7 +12,9 @@ Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos.
 <br>Estou fazendo no momento o curso de Cybersegurança da Google.
 <br>Estou fazendo no momento também o curso da Trybe IA para programação com Python. 
 </p> 
+
 ## Experiência Profissional.
+
 <p align= "justify">Estou em dois projetos freelancers e voluntários na criação de site para loja vendas online e outro site para divulgar um centro espirita (Religioso).</p>
 <p align= "justify">Trabalhei 22 anos na Fiocruz e nos últimos 10 anos, como Gestora dos Projetos
 em Pesquisa. Dando auxilio administrativo (obedecendo o Guia PMBOK) em
