@@ -1,9 +1,9 @@
 # Ola!!! Bem vindos ao meu perfil 😀
 
-<p>Sou carioca do Rio de Janeiro, mas no momento moro em Araras interior de SP.</p> <p>Sou graduada em Administração
+<p align= "justify">Sou carioca do Rio de Janeiro, mas no momento moro em Araras interior de SP.</p> <p>Sou graduada em Administração
 com enfase em Analise de Sistema, onde aprendi algumas linguagens como:
 SQL, C++ e Delphi.</p>
-<p>
+<p align= "justify">
 Em 2016 precisei mudar para Araras por motivos pessoais e fui buscar cursos
 para desenvolver-me e acabei por encontrar a Trybe, escola de tecnologia, onde
 durante 1 ano e meio aprendi módulos - Fundamentos - Front-end - Back-end - Ciência da Computação - e Certificação Eletiva em Java. 
@@ -13,8 +13,8 @@ Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos.
 <br>Estou fazendo no momento também o curso da Trybe IA para programação com Python. 
 </p> 
 ## Experiência Profissional.
-<p>Estou em dois projetos freelancers e voluntários na criação de site para loja vendas online e outro site para divulgar um centro espirita (Religioso).</p>
-<p>Trabalhei 22 anos na Fiocruz e nos últimos 10 anos, como Gestora dos Projetos
+<p align= "justify">Estou em dois projetos freelancers e voluntários na criação de site para loja vendas online e outro site para divulgar um centro espirita (Religioso).</p>
+<p align= "justify">Trabalhei 22 anos na Fiocruz e nos últimos 10 anos, como Gestora dos Projetos
 em Pesquisa. Dando auxilio administrativo (obedecendo o Guia PMBOK) em
 compras, financeiro, prestação de conta para os gerentes dos projetos de Pesquisas. O meu
 maior legado foi criar um controle financeiro e compras descentralizados da administração do IOC (Instituto Oswaldo Cruz), via planilha excel que trouxe melhor visibilidade, podendo dar Análise de seus gastos full time, economia nos Orçamentos e evitando gastos desnecessários.
