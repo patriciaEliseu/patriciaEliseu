@@ -184,6 +184,10 @@ maior legado foi criar um controle financeiro e compras descentralizados da admi
         <span>Aws<span><br>
         <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
       </td>
+	<td width="30px" align="center">
+        <span>AI Gemini<span><br>
+        <img height="40" width="50" src="[https://img.icons8.com/color/256/amazon-web-services.png](https://images.app.goo.gl/5qwrzRxWrEC11FCQ7)" />
+      </td>
       <td width="80px" align="center">
         <span>Linux</span><br>
         <img height="42" width="92" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
