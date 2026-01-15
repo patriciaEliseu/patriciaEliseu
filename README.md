@@ -11,7 +11,8 @@ Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos.
 <br>Concluí Bootcamp Santander - Backend em Java.
 <br>Conclui o curso de Cybersegurança da Google.
 <br>Conclui o curso da Trybe IA para programação com Python.
-<br>Estou cursando o Bootacamp da Generation Brasil  - Java com Spring e React.
+<br>Conclui o Bootacamp da Generation Brasil  - Java com Spring e React.
+<br>Estou cursando o Bootcamp da Dio com a CI&T em Backend com Java & AWS.
 </p> 
 
 ## Experiência Profissional.
