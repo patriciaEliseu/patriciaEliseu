@@ -17,7 +17,7 @@ Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos.
 
 ## Experiência Profissional.
 
-<p align= "justify">Trabalho como voluntária com Java e React na empresa SaveBys e também fiz outros dois trabalhos voluntários como desenvolvedora pela empresa Skill Labs em parceria com a Trybe.</p>
+<p align= "justify">Estou pegando projetos free e também fiz dois trabalhos voluntários como desenvolvedora pela empresa Skill Labs em parceria com a Trybe.</p>
 <p align= "justify">Trabalhei por 22 anos na Fiocruz, e nos últimos 10 atuei como Gestora de Projetos de Pesquisa, seguindo as práticas do Guia PMBOK. Durante esse período, desenvolvi um sistema de controle financeiro e de compras descentralizado que trouxe mais transparência, economia e eficiência à gestão orçamentária do Instituto Oswaldo Cruz.
 </p>
 
