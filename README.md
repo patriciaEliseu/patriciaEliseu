@@ -12,7 +12,8 @@ Totalizando 1,670 h/aula e já desenvolvi mais de 30 projetos.
 <br>Conclui o curso de Cybersegurança da Google.
 <br>Conclui o curso da Trybe IA para programação com Python.
 <br>Conclui o Bootacamp da Generation Brasil  - Java com Spring e React.
-<br>Estou cursando o Bootcamp da Dio com a CI&T em Backend com Java & AWS.
+<br>Estou cursando Cybersegurança HackerDoBem.
+<br>Estou cursando Certificado Profissional de Google Project Management.
 </p> 
 
 ## Experiência Profissional.
